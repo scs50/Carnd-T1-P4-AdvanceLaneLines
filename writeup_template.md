@@ -146,9 +146,9 @@ Test showing the radius of curvature and center offset was added to the original
 
 Here's a [link to my video result](./output_images/project_video_output.mp4)
 
-Here's a [link to my video result] for the challenge video.(./output_images/challenge_video_output.mp4)
+Here's the challenge video link, worse perfomance [link to my video result](./output_images/challenge_video_output.mp4)
 
-Here's a [link to my video result] for the harder challenge video.(./output_images/harder_challenge_video_output.mp4)
+Here's the harder challenge video, laughably bad [link to my video result](./output_images/harder_challenge_video_output.mp4)
 ---
 
 ### Discussion
